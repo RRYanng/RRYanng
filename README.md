@@ -14,7 +14,7 @@ Contract Analyser, MakerLens, and Everyone 72 were built solo with Claude API as
 |---|---|---|
 | 🛡️ **[Contract Analyser](https://github.com/RRYanng/contract-analyser)** | AI legal risk agent that helps freelancers understand contracts before signing | 🚧 In development — full [PRD](https://github.com/RRYanng/contract-analyser/blob/main/docs/PRD.md) + [engineered prompts](https://github.com/RRYanng/contract-analyser/blob/main/prompts/system_prompt.md) published |
 | 🦉 **[MakerLens](https://github.com/RRYanng/makerlens)** | AI cold outreach pipeline with 3-layer anti-hallucination architecture | ✅ Actively running — [public metrics](https://github.com/RRYanng/makerlens#-live-metrics) & [weekly ship log](https://github.com/RRYanng/makerlens/issues/1) |
-| ⛳ **[Everyone 72](https://github.com/RRYanng/everyone72)** | AI golf diagnosis platform — tells you *why* you're not improving, not just *what* you scored | ✅ [Live demo](https://everyone72.vercel.app/demo) — full-stack production app |
+| ⛳ **[Everyone 72](https://github.com/RRYanng/everyone72)** | AI golf diagnosis platform — tells you *why* you're not improving, not just *what* you scored | [Public sample demo](https://everyone72.vercel.app/demo) — fixed examples; sign-in and account features currently unavailable |
 | **[AI Equity Research Agent](https://github.com/RRYanng/equity-research-agent-portfolio)** | React/Vite + FastAPI/LangGraph financial research prototype with deterministic tools and synthetic workflow evaluation | Sanitized portfolio edition / local prototype; source code only, no public live deployment |
 
 ---
@@ -30,9 +30,9 @@ Contract Analyser, MakerLens, and Everyone 72 were built solo with Claude API as
 
 ### 🎯 Currently
 
-Looking for **Summer 2026 internships** in AI product management, AI engineering, or product-focused roles at AI startups and labs. North America preferred.
+Seeking **FDE / Applied AI opportunities**. North America preferred.
 
-If you're hiring for the summer, or you're working on something where I might be useful, I'd love to hear from you.
+If you're hiring, or you're working on something where I might be useful, I'd love to hear from you.
 
 ---
 
@@ -40,8 +40,8 @@ If you're hiring for the summer, or you're working on something where I might be
 
 - **Email** — ruiyiyanng@gmail.com
 - **LinkedIn** — [linkedin.com/in/ruiyiyang](https://linkedin.com/in/ruiyiyang)
-- **Live products** — [everyone72.vercel.app/demo](https://everyone72.vercel.app/demo) (the one you can actually use right now)
+- **Everyone 72 sample demo** — [everyone72.vercel.app/demo](https://everyone72.vercel.app/demo) (fixed sample data; no sign-in required)
 
 ---
 
-*Last updated: April 2026*
+*Last updated: October 2, 2026*
