@@ -8,13 +8,14 @@ I'm a Cognitive Science student at **UC Irvine** (class of 2027) building AI too
 
 ### 🛠️ Recent builds
 
-All three built solo with Claude API as the AI layer. Each one has its own README with full product thinking — PRD for Contract Analyser, architecture decisions for MakerLens, and a roadmap for Everyone 72.
+Contract Analyser, MakerLens, and Everyone 72 were built solo with Claude API as the AI layer. Each one has its own README with full product thinking — PRD for Contract Analyser, architecture decisions for MakerLens, and a roadmap for Everyone 72.
 
 | Project | What it does | Status |
 |---|---|---|
 | 🛡️ **[Contract Analyser](https://github.com/RRYanng/contract-analyser)** | AI legal risk agent that helps freelancers understand contracts before signing | 🚧 In development — full [PRD](https://github.com/RRYanng/contract-analyser/blob/main/docs/PRD.md) + [engineered prompts](https://github.com/RRYanng/contract-analyser/blob/main/prompts/system_prompt.md) published |
 | 🦉 **[MakerLens](https://github.com/RRYanng/makerlens)** | AI cold outreach pipeline with 3-layer anti-hallucination architecture | ✅ Actively running — [public metrics](https://github.com/RRYanng/makerlens#-live-metrics) & [weekly ship log](https://github.com/RRYanng/makerlens/issues/1) |
 | ⛳ **[Everyone 72](https://github.com/RRYanng/everyone72)** | AI golf diagnosis platform — tells you *why* you're not improving, not just *what* you scored | ✅ [Live demo](https://everyone72.vercel.app/demo) — full-stack production app |
+| **[AI Equity Research Agent](https://github.com/RRYanng/equity-research-agent-portfolio)** | React/Vite + FastAPI/LangGraph financial research prototype with deterministic tools and synthetic workflow evaluation | Sanitized portfolio edition / local prototype; source code only, no public live deployment |
 
 ---
 
